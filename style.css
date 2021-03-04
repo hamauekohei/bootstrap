@@ -1,0 +1,9 @@
+.nav-link {
+  opacity: 0.8;
+}
+.nav-link:hover {
+  opacity: 1;
+}
+.question {
+  border:2px solid #000;
+}
